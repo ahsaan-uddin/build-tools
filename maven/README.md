@@ -1,8 +1,6 @@
 # 🚀 Maven Build Tool
 
----
 
----
 
 ## 🧭 **Table of Contents**
 
