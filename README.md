@@ -1,4 +1,4 @@
-# 🔧 Build Tools – Clean & Beginner-Friendly Notes
+# 🔧 Build Tools
 
 Welcome to **Build Tools**, a simple and well-organized collection of my handwritten-style notes on essential software build tools used across development and DevOps.
 
@@ -10,7 +10,7 @@ This repository keeps the explanations short, clean, practical, and easy to revi
 
 This repo currently includes:
 
-### ☕ Maven  
+### 🚀 Maven  
 Structured notes covering:
 - What Maven is  
 - Project structure  
