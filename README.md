@@ -21,7 +21,7 @@ Structured notes covering:
 - Profiles  
 - Common commands  
 
-📍 Path: **`maven/README.md`**(https://github.com/ahsaan-uddin/build-tools/blob/main/maven/README.md)
+📍 Path: [**`maven/README.md`**](https://github.com/ahsaan-uddin/build-tools/blob/main/maven/README.md)
 
 ---
 
@@ -36,7 +36,7 @@ Beginner-friendly notes covering:
 - Workspaces  
 - npm security & best practices  
 
-📍 Path: **`npm/README.md`**(https://github.com/ahsaan-uddin/build-tools/blob/main/npm/README.md)
+📍 Path: [**`npm/README.md`**](https://github.com/ahsaan-uddin/build-tools/blob/main/npm/README.md)
 
 ---
 
